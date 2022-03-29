@@ -1,2 +1,2 @@
 # Internship-report
-An internship report entitled "business intelligence includes football analysis"
+"Business intelligence includes football analysis"
