@@ -1,0 +1,69 @@
+\selectlanguage *{english}
+\contentsline {chapter}{\numberline {1}Kloppy Featuring InStat}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problematic}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}The Kloppy Package}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}What is Kloppy ?}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Kloppy providers}{4}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}What is events \& line\sphinxhyphen {}up data in football?}{4}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Example}{4}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Kloppy Event Types}{5}{subsection.1.3.5}%
+\contentsline {subsubsection}{Pass Event}{5}{subsubsection*.3}%
+\contentsline {subsubsection}{Shot Event}{6}{subsubsection*.4}%
+\contentsline {subsubsection}{Take on Event}{6}{subsubsection*.5}%
+\contentsline {subsubsection}{Carry Event}{6}{subsubsection*.6}%
+\contentsline {subsubsection}{Substitution Event}{6}{subsubsection*.7}%
+\contentsline {subsubsection}{Player On/Off Event}{7}{subsubsection*.8}%
+\contentsline {subsubsection}{Card Event}{7}{subsubsection*.9}%
+\contentsline {subsubsection}{Recovery Event}{7}{subsubsection*.10}%
+\contentsline {subsubsection}{Ball out Event}{7}{subsubsection*.11}%
+\contentsline {subsubsection}{Foul Commit Event}{7}{subsubsection*.12}%
+\contentsline {subsubsection}{Generic Event}{7}{subsubsection*.13}%
+\contentsline {subsection}{\numberline {1.3.6}Kloppy qualifiers}{7}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Dependencies}{8}{subsection.1.3.7}%
+\contentsline {section}{\numberline {1.4}The InStat Provider}{8}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}What is InStat ?}{8}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}InStat Files}{8}{subsection.1.4.2}%
+\contentsline {subsubsection}{Line\sphinxhyphen {}up}{8}{subsubsection*.14}%
+\contentsline {subsubsection}{Events}{8}{subsubsection*.15}%
+\contentsline {subsection}{\numberline {1.4.3}InStat Actions}{10}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}InStat Coordinates System}{10}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}InStat Standart}{11}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}InStat Body Part}{11}{subsection.1.4.6}%
+\contentsline {section}{\numberline {1.5}Workflow}{11}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Instat Inputs}{11}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Coordinates System}{11}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Action Id}{12}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Qualifiers Functions}{12}{subsection.1.5.4}%
+\contentsline {subsubsection}{Body Part Qualifier}{12}{subsubsection*.16}%
+\contentsline {subsubsection}{Card Qualifier}{13}{subsubsection*.17}%
+\contentsline {subsubsection}{Pass Qualifier}{13}{subsubsection*.18}%
+\contentsline {subsubsection}{Set Piece Qualifier}{13}{subsubsection*.19}%
+\contentsline {subsection}{\numberline {1.5.5}Parse Functions}{14}{subsection.1.5.5}%
+\contentsline {subsubsection}{Parse Team}{14}{subsubsection*.20}%
+\contentsline {subsubsection}{Parse Score}{14}{subsubsection*.21}%
+\contentsline {subsubsection}{Parse Card}{15}{subsubsection*.22}%
+\contentsline {subsubsection}{Parse pass}{15}{subsubsection*.23}%
+\contentsline {subsubsection}{Parse shot}{16}{subsubsection*.24}%
+\contentsline {subsubsection}{Parse take\sphinxhyphen {}on}{16}{subsubsection*.25}%
+\contentsline {subsection}{\numberline {1.5.6}InStat Deserializer}{16}{subsection.1.5.6}%
+\contentsline {subsubsection}{Metadata}{17}{subsubsection*.26}%
+\contentsline {subsubsection}{Records}{17}{subsubsection*.27}%
+\contentsline {section}{\numberline {1.6}Result}{17}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Physical report}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Tracking Data}{19}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Workflow}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Minutes played}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Distance covered}{19}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Report}{19}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Result}{19}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Data Visualization}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{21}{section.3.1}%
+\contentsline {section}{\numberline {3.2}FrameWork}{21}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}What is Dash ?}{21}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Dash Bootstrap Components}{21}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Dashboard Content}{22}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Match page}{22}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Player page}{22}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Player Comparison}{24}{subsection.3.3.3}%
