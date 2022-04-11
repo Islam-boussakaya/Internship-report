@@ -3,7 +3,14 @@
 
 format: jb-book
 root: intro
+options:
+  numbered: true
 chapters:
-- file: Kloppy_Package
-- file: Physical_Metrics
-- file: Visualization
+- file: Chap1/Chap1
+  sections:
+   - file: Chap1/section1
+   - file: Chap1/section2
+   - file: Chap1/section3
+   - file: Chap1/section4
+- file: Chap2/chap2
+- file: Chap3/Chap3
