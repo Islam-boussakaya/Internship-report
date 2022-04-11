@@ -1,7 +1,0 @@
-<!-- #region -->
-
-
-```{tableofcontents}
-
-```
-<!-- #endregion -->
