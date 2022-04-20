@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.3.3)  11 APR 2022 01:21
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.3.3)  20 APR 2022 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1654,122 +1654,177 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 ] [2
 
 ]
-LaTeX Info: Redefining \rmfamily on input line 118.
-LaTeX Info: Redefining \sffamily on input line 118.
-LaTeX Info: Redefining \ttfamily on input line 118.
+LaTeX Info: Redefining \rmfamily on input line 130.
+LaTeX Info: Redefining \sffamily on input line 130.
+LaTeX Info: Redefining \ttfamily on input line 130.
  [1]
-LaTeX Info: Redefining \rmfamily on input line 118.
-LaTeX Info: Redefining \sffamily on input line 118.
-LaTeX Info: Redefining \ttfamily on input line 118.
+LaTeX Info: Redefining \rmfamily on input line 130.
+LaTeX Info: Redefining \sffamily on input line 130.
+LaTeX Info: Redefining \ttfamily on input line 130.
  [2
 
 ]
 Chapter 1.
 [3]
+File: blog-scrum-process.jpg Graphic file (type bmp)
+<blog-scrum-process.jpg>
+LaTeX Info: Redefining \rmfamily on input line 217.
+LaTeX Info: Redefining \sffamily on input line 217.
+LaTeX Info: Redefining \ttfamily on input line 217.
+ [4]
+File: jira.png Graphic file (type bmp)
+<jira.png>
+LaTeX Info: Redefining \rmfamily on input line 278.
+LaTeX Info: Redefining \sffamily on input line 278.
+LaTeX Info: Redefining \ttfamily on input line 278.
+ [5]
+LaTeX Info: Redefining \rmfamily on input line 302.
+LaTeX Info: Redefining \sffamily on input line 302.
+LaTeX Info: Redefining \ttfamily on input line 302.
+ [6]
+Chapter 2.
+[7
+
+]
 File: optaexp.png Graphic file (type bmp)
 <optaexp.png>
-LaTeX Info: Redefining \rmfamily on input line 246.
-LaTeX Info: Redefining \sffamily on input line 246.
-LaTeX Info: Redefining \ttfamily on input line 246.
- [4]
-LaTeX Info: Redefining \rmfamily on input line 456.
-LaTeX Info: Redefining \sffamily on input line 456.
-LaTeX Info: Redefining \ttfamily on input line 456.
- [5]
-LaTeX Info: Redefining \rmfamily on input line 639.
-LaTeX Info: Redefining \sffamily on input line 639.
-LaTeX Info: Redefining \ttfamily on input line 639.
- [6]
-LaTeX Info: Redefining \rmfamily on input line 787.
-LaTeX Info: Redefining \sffamily on input line 787.
-LaTeX Info: Redefining \ttfamily on input line 787.
- [7]
+LaTeX Info: Redefining \rmfamily on input line 430.
+LaTeX Info: Redefining \sffamily on input line 430.
+LaTeX Info: Redefining \ttfamily on input line 430.
+ [8]
+LaTeX Info: Redefining \rmfamily on input line 640.
+LaTeX Info: Redefining \sffamily on input line 640.
+LaTeX Info: Redefining \ttfamily on input line 640.
+ [9]
+LaTeX Info: Redefining \rmfamily on input line 823.
+LaTeX Info: Redefining \sffamily on input line 823.
+LaTeX Info: Redefining \ttfamily on input line 823.
+ [10]
+LaTeX Info: Redefining \rmfamily on input line 971.
+LaTeX Info: Redefining \sffamily on input line 971.
+LaTeX Info: Redefining \ttfamily on input line 971.
+ [11]
 File: lineupxml.png Graphic file (type bmp)
 <lineupxml.png>
 File: eventsxml.png Graphic file (type bmp)
 <eventsxml.png>
-LaTeX Info: Redefining \rmfamily on input line 862.
-LaTeX Info: Redefining \sffamily on input line 862.
-LaTeX Info: Redefining \ttfamily on input line 862.
- [8]
-LaTeX Info: Redefining \rmfamily on input line 862.
-LaTeX Info: Redefining \sffamily on input line 862.
-LaTeX Info: Redefining \ttfamily on input line 862.
- [9]
+LaTeX Info: Redefining \rmfamily on input line 1046.
+LaTeX Info: Redefining \sffamily on input line 1046.
+LaTeX Info: Redefining \ttfamily on input line 1046.
+ [12]
+LaTeX Info: Redefining \rmfamily on input line 1046.
+LaTeX Info: Redefining \sffamily on input line 1046.
+LaTeX Info: Redefining \ttfamily on input line 1046.
+ [13]
 File: pitch.png Graphic file (type bmp)
 <pitch.png>
-LaTeX Info: Redefining \rmfamily on input line 948.
-LaTeX Info: Redefining \sffamily on input line 948.
-LaTeX Info: Redefining \ttfamily on input line 948.
- [10]
-LaTeX Info: Redefining \rmfamily on input line 1072.
-LaTeX Info: Redefining \sffamily on input line 1072.
-LaTeX Info: Redefining \ttfamily on input line 1072.
- [11]
-Overfull \vbox (0.75099pt too high) detected at line 1127
+LaTeX Info: Redefining \rmfamily on input line 1132.
+LaTeX Info: Redefining \sffamily on input line 1132.
+LaTeX Info: Redefining \ttfamily on input line 1132.
+ [14]
+LaTeX Info: Redefining \rmfamily on input line 1256.
+LaTeX Info: Redefining \sffamily on input line 1256.
+LaTeX Info: Redefining \ttfamily on input line 1256.
+ [15]
+Overfull \vbox (0.75099pt too high) detected at line 1311
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1127.
-LaTeX Info: Redefining \sffamily on input line 1127.
-LaTeX Info: Redefining \ttfamily on input line 1127.
-[12]
-LaTeX Info: Redefining \rmfamily on input line 1187.
-LaTeX Info: Redefining \sffamily on input line 1187.
-LaTeX Info: Redefining \ttfamily on input line 1187.
- [13]
-LaTeX Info: Redefining \rmfamily on input line 1253.
-LaTeX Info: Redefining \sffamily on input line 1253.
-LaTeX Info: Redefining \ttfamily on input line 1253.
- [14]
-LaTeX Info: Redefining \rmfamily on input line 1306.
-LaTeX Info: Redefining \sffamily on input line 1306.
-LaTeX Info: Redefining \ttfamily on input line 1306.
- [15]
-LaTeX Info: Redefining \rmfamily on input line 1368.
-LaTeX Info: Redefining \sffamily on input line 1368.
-LaTeX Info: Redefining \ttfamily on input line 1368.
- [16]
+LaTeX Info: Redefining \rmfamily on input line 1311.
+LaTeX Info: Redefining \sffamily on input line 1311.
+LaTeX Info: Redefining \ttfamily on input line 1311.
+[16]
+LaTeX Info: Redefining \rmfamily on input line 1371.
+LaTeX Info: Redefining \sffamily on input line 1371.
+LaTeX Info: Redefining \ttfamily on input line 1371.
+ [17]
+LaTeX Info: Redefining \rmfamily on input line 1437.
+LaTeX Info: Redefining \sffamily on input line 1437.
+LaTeX Info: Redefining \ttfamily on input line 1437.
+ [18]
+LaTeX Info: Redefining \rmfamily on input line 1490.
+LaTeX Info: Redefining \sffamily on input line 1490.
+LaTeX Info: Redefining \ttfamily on input line 1490.
+ [19]
+LaTeX Info: Redefining \rmfamily on input line 1552.
+LaTeX Info: Redefining \sffamily on input line 1552.
+LaTeX Info: Redefining \ttfamily on input line 1552.
+ [20]
 File: result.png Graphic file (type bmp)
 <result.png>
-LaTeX Info: Redefining \rmfamily on input line 1404.
-LaTeX Info: Redefining \sffamily on input line 1404.
-LaTeX Info: Redefining \ttfamily on input line 1404.
- [17]
-LaTeX Info: Redefining \rmfamily on input line 1404.
-LaTeX Info: Redefining \sffamily on input line 1404.
-LaTeX Info: Redefining \ttfamily on input line 1404.
- [18
-
-]
-Chapter 2.
-[19]
-LaTeX Info: Redefining \rmfamily on input line 1450.
-LaTeX Info: Redefining \sffamily on input line 1450.
-LaTeX Info: Redefining \ttfamily on input line 1450.
- [20
+LaTeX Info: Redefining \rmfamily on input line 1588.
+LaTeX Info: Redefining \sffamily on input line 1588.
+LaTeX Info: Redefining \ttfamily on input line 1588.
+ [21]
+LaTeX Info: Redefining \rmfamily on input line 1588.
+LaTeX Info: Redefining \sffamily on input line 1588.
+LaTeX Info: Redefining \ttfamily on input line 1588.
+ [22
 
 ]
 Chapter 3.
-[21]
+File: trackingdata.png Graphic file (type bmp)
+<trackingdata.png>
+[23]
+File: minutes.png Graphic file (type bmp)
+<minutes.png>
+File: codeminutes.png Graphic file (type bmp)
+<codeminutes.png>
+LaTeX Info: Redefining \rmfamily on input line 1694.
+LaTeX Info: Redefining \sffamily on input line 1694.
+LaTeX Info: Redefining \ttfamily on input line 1694.
+ [24]
+File: rw.png Graphic file (type bmp)
+<rw.png>
+LaTeX Info: Redefining \rmfamily on input line 1726.
+LaTeX Info: Redefining \sffamily on input line 1726.
+LaTeX Info: Redefining \ttfamily on input line 1726.
+ [25]
+File: runexp.png Graphic file (type bmp)
+<runexp.png>
+File: result1.png Graphic file (type bmp)
+<result1.png>
+LaTeX Info: Redefining \rmfamily on input line 1752.
+LaTeX Info: Redefining \sffamily on input line 1752.
+LaTeX Info: Redefining \ttfamily on input line 1752.
+ [26]
+Chapter 4.
+[27
+
+]
 File: landingpage.png Graphic file (type bmp)
 <landingpage.png>
-File: positions.png Graphic file (type bmp)
-<positions.png>
 File: lineuppage.png Graphic file (type bmp)
 <lineuppage.png>
+File: config.png Graphic file (type bmp)
+<config.png>
 File: playerpage.png Graphic file (type bmp)
 <playerpage.png>
-LaTeX Info: Redefining \rmfamily on input line 1585.
-LaTeX Info: Redefining \sffamily on input line 1585.
-LaTeX Info: Redefining \ttfamily on input line 1585.
- [22]
-LaTeX Info: Redefining \rmfamily on input line 1585.
-LaTeX Info: Redefining \sffamily on input line 1585.
-LaTeX Info: Redefining \ttfamily on input line 1585.
- [23]
+LaTeX Info: Redefining \rmfamily on input line 1842.
+LaTeX Info: Redefining \sffamily on input line 1842.
+LaTeX Info: Redefining \ttfamily on input line 1842.
+ [28]
+LaTeX Info: Redefining \rmfamily on input line 1842.
+LaTeX Info: Redefining \sffamily on input line 1842.
+LaTeX Info: Redefining \ttfamily on input line 1842.
+ [29]
 File: playercomp.png Graphic file (type bmp)
 <playercomp.png>
- (./book.ind)
+LaTeX Info: Redefining \rmfamily on input line 1852.
+LaTeX Info: Redefining \sffamily on input line 1852.
+LaTeX Info: Redefining \ttfamily on input line 1852.
+ [30]
+LaTeX Info: Redefining \rmfamily on input line 1852.
+LaTeX Info: Redefining \sffamily on input line 1852.
+LaTeX Info: Redefining \ttfamily on input line 1852.
+ [31]
+LaTeX Info: Redefining \rmfamily on input line 1852.
+LaTeX Info: Redefining \sffamily on input line 1852.
+LaTeX Info: Redefining \ttfamily on input line 1852.
+ [32
+
+]
+Chapter 5.
+(./book.ind)
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1804,34 +1859,27 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-LaTeX Info: Redefining \rmfamily on input line 1602.
-LaTeX Info: Redefining \sffamily on input line 1602.
-LaTeX Info: Redefining \ttfamily on input line 1602.
- [24]
-LaTeX Info: Redefining \rmfamily on input line 1602.
-LaTeX Info: Redefining \sffamily on input line 1602.
-LaTeX Info: Redefining \ttfamily on input line 1602.
- [25]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1602.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1602.
+ [33]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1867.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1867.
  (./book.aux
 LaTeX Info: Redefining \rmfamily on input line 19.
 LaTeX Info: Redefining \sffamily on input line 19.
 LaTeX Info: Redefining \ttfamily on input line 19.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1602.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1602.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1867.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1867.
 
 Package rerunfilecheck Info: File `book.out' has not changed.
-(rerunfilecheck)             Checksum: 4BBFAB52BB133705CB43BB376FB87899;4839.
+(rerunfilecheck)             Checksum: 1245A93FE001A86BDDAF25BDA11C4B7F;5667.
  ) 
 Here is how much of TeX's memory you used:
- 42155 strings out of 479819
- 946953 string characters out of 5895847
- 1662791 words of memory out of 5000000
- 58469 multiletter control sequences out of 15000+600000
+ 42231 strings out of 479819
+ 948434 string characters out of 5895847
+ 1662792 words of memory out of 5000000
+ 58535 multiletter control sequences out of 15000+600000
  537798 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  71i,11n,109p,820b,2172s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on book.pdf (29 pages).
+Output written on book.pdf (37 pages).
