@@ -6,6 +6,7 @@ root: intro
 options:
   numbered: true
 chapters:
+- file: Introduction/introduction
 - file: Chap1/Chap1
   sections:
    - file: Chap1/section1
@@ -14,3 +15,4 @@ chapters:
    - file: Chap1/section4
 - file: Chap2/chap2
 - file: Chap3/Chap3
+- file: Conclusion/conc

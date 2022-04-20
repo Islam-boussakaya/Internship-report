@@ -29,55 +29,40 @@
 # ### Match page
 # 
 # The landing page which contains game information such as home team and away team, name and score also two buttons to pass to display the line-up for each team and comparison of players.
-# 
 # ```{figure} img/landingpage.png
 # ---
 # name: landingpage-fig
 # ---
 # The landing page.
 # ```
-# 
-# **Line-up :**
-# : The line-up is ordered as player positions in the field.
-# 
-# |Position|name|
-# |-------|-----|
-# |GK|Goal Keeper|
-# |Defenders|CF center forward / RF right forward|
-# |Midfielders|DM defensive Midfield / RM right midfield / LM left midfield|
-# |Forwards| CB center back / RCB right center back / LCB left center back|
-# 
-# ```{figure} img/positions.png
-# ---
-# name: positions-fig
-# height: 300px
-# ---
-# This images illustrate the players position on the field.
-# ```
-# 
 # ```{figure} img/lineuppage.png
 # ---
 # name: lineuppage-fig
 # ---
 # Displayed content after clicking on line-up button.
 # ```
-# 
+# ### Running configuration
+# It where the user can configurate each type of running.
+# ```{figure} img/config.png
+# ---
+# name: config-fig
+# ---
+# Configuration of the runiing types.
+# ```
+
 # ### Player page
-# 
 # It is the main page on which the player performance information will be displayed.
-# 
 # ```{figure} img/playerpage.png
 # ---
 # name: playerpage-fig
 # ---
-# Displayed content after clicking on a player in the line-up.
+# Displayed content after selecting on one player .
 # ```
-# 
+
 # ### Player Comparison
-# 
 # ```{figure} img/playercomp.png
 # ---
 # name: playercomp-fig
 # ---
-# Displayed content after clicking on the player comparison button.
+# Displayed content after selecting on two player.
 # ```
